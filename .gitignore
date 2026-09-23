@@ -1,6 +1,9 @@
 venv/
 .venv/
 env/
+node_modules/
+.next/
+out/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -11,3 +14,8 @@ Thumbs.db
 data/output/
 *.log
 data/
+data/uploads/*
+data/outputs/*
+!data/uploads/.gitkeep
+!data/outputs/.gitkeep
+node_modules
