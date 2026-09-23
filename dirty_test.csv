@@ -1,0 +1,6 @@
+customer_id,name,phone,signup_date,state,total_spend
+1,John Doe,(555) 019-2834,2023-01-15,CA,$120.50
+2,Jane Smith,555.019.2835,15/01/2023,California,340.00
+3,Bob Vance,,2023.01.16,PA,$45.10
+4,Alice Ray,5550192837,Jan 17 2023,california,NULL
+5,Eve Adams,555-019-2838,2023-01-18,TX,210.75
